@@ -1,0 +1,18 @@
+{
+    "First Name": "الاسم الأول",
+    "Last Name": "السم الأخير",
+    "Birthday": "تاريخ الميلاد",
+    "Female": "انثى",
+    "Male": "ذكر",
+    "Country": "البلد",
+    "City": "المدينة",
+    "Questions": "الأسئلة",
+    "Asked": "طرحت في",
+    "By": "بواسطة",
+    "Answers": "الإجابات",
+    "New question": "سؤال جديد",
+    "These credentials do not match our records.": "بيانات الدخول خاطئة.",
+    "New Answer": "إجابة جديدة",
+    ":user added answer to your question \":question\"": "قام :user بالإجابة على سؤالك \":question\"",
+    "View Answer": "عرض الإجابة"
+}
